@@ -1,0 +1,43 @@
+Mesuesi: 
+JAVA  	8
+E HENE 		27/10/2025
+ora 1, 2, 3, 4 pushim	
+			
+Fusha: 
+Lënda:	C++
+Tema mësimore: Lenda1 Tema22
+Shkalla:
+Klasa:III6 ora 5		
+Situata e të nxënit: 		
+Rezultatet e të nxënit sipas kompetencave kyç:
+Fjalët kyç:
+Lidhja me fusha të tjera ose me temat ndërkurrikulare:
+Burimet:
+Metodologjia dhe veprimtaritë e nxënësve:			
+Organizimi i orës së mësimit:
+Kompetencat që përfitojnë:		
+Vlerësimi:
+Detyrat dhe puna e pavarur:
+Detyre shtepie:	
+
+
+Fusha: 
+Lënda:	JAVA
+Tema mësimore: Lenda2 Tema22
+Shkalla:
+Klasa:IV7 ora 6		
+Situata e të nxënit: 		
+Rezultatet e të nxënit sipas kompetencave kyç:
+Fjalët kyç:
+Lidhja me fusha të tjera ose me temat ndërkurrikulare:
+Burimet:
+Metodologjia dhe veprimtaritë e nxënësve:			
+Organizimi i orës së mësimit:
+Kompetencat që përfitojnë:		
+Vlerësimi:
+Detyrat dhe puna e pavarur:
+Detyre shtepie:			
+
+Klasa		III4 ora 7		
+Tema 	22	Lenda1 Tema22		
+		Shih permbajtjen per klasen III6 ora 5 dt 27/10/2025

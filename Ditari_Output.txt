@@ -1,0 +1,74 @@
+Nxenesi: EMRI MBIEMRI
+Data: 2025-09-08
+Dita: E HENE
+Java mesimore: 1
+=============================================
+
+Fusha:
+Lënda:	C++
+Tema mësimore:	Hyrje në C++ dhe programi i parë
+Klasa:	III6 ora 1
+Situata e të nxënit:	Pyetje-përgjigje: çfarë është programimi?
+Rezultatet e të nxënit:	Nxënësi kupton strukturën bazë të programit
+Fjalët kyç:	main, cout
+Lidhja me fusha të tjera:	Matematikë
+Burimet:	Laptop/PC, IDE
+Metodologjia:	Shpjegim + demonstrim + ushtrime
+Organizimi i orës:	Individual + çift
+Kompetencat:	Komunikim, Digjitale
+Vlerësimi:	Kontroll me pyetje + ushtrim
+Detyrat dhe puna e pavarur:	Shkruaj Hello World
+Detyre shtepie:	Ushtrime të thjeshta
+--------------------------------------------
+
+Fusha:
+Lënda:	JAVA
+Tema mësimore:	Hyrje në Java
+Klasa:	IV7 ora 2
+Situata e të nxënit:	Çfarë është Java?
+Rezultatet e të nxënit:	Kupton klasën dhe main
+Fjalët kyç:	class, main
+Lidhja me fusha të tjera:	Teknologji
+Burimet:	PC
+Metodologjia:	Shpjegim + demo
+Organizimi i orës:	Individual
+Kompetencat:	Digjitale
+Vlerësimi:	Pyetje
+Detyrat dhe puna e pavarur:	Hello World
+Detyre shtepie:	Hello World
+--------------------------------------------
+
+Fusha:
+Lënda:	C++
+Tema mësimore:	Variabla dhe tipe të dhënash
+Klasa:	III6 ora 3
+Situata e të nxënit:	Situatë: llogaritje e thjeshtë
+Rezultatet e të nxënit:	Përdor variabla dhe tipet bazë
+Fjalët kyç:	int, double, string
+Lidhja me fusha të tjera:	Fizikë
+Burimet:	Fletë pune
+Metodologjia:	Shembuj + praktikë
+Organizimi i orës:	Individual
+Kompetencat:	Digjitale
+Vlerësimi:	Vlerësim me ushtrime
+Detyrat dhe puna e pavarur:	5 ushtrime me int/double
+Detyre shtepie:	Detyrë 5 ushtrime
+--------------------------------------------
+
+Fusha:
+Lënda:	JAVA
+Tema mësimore:	Variabla dhe tipe
+Klasa:	IV7 ora 5
+Situata e të nxënit:	Shembull praktik
+Rezultatet e të nxënit:	Deklaron variabla
+Fjalët kyç:	int, String
+Lidhja me fusha të tjera:	Matematikë
+Burimet:	PC
+Metodologjia:	Praktikë
+Organizimi i orës:	Çift
+Kompetencat:	Digjitale
+Vlerësimi:	Ushtrim
+Detyrat dhe puna e pavarur:	Ushtrime me int/String
+Detyre shtepie:	Ushtrime
+--------------------------------------------
+
